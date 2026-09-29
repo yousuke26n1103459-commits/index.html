@@ -1,0 +1,89 @@
+body {
+  color: #333333;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-size: 70px;
+  letter-spacing: 5px;
+}
+
+h2 {
+  margin: 0;
+}
+
+#top {
+  background-image: url(image/top.jpg);
+  background-size: cover;
+  padding: 200px 0;
+}
+
+#about {
+  background-color: #F6F6F6;
+  padding: 100px;
+}
+
+#skills {
+  background-color: #7BC3D1;
+  padding: 100px;
+}
+
+#portfolio {
+  background-color: #F6F6F6;
+  padding: 100px;
+}
+
+header {
+  background-color: #333333;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+header img {
+  height: 30px;
+}
+
+header ul {
+  margin: 0;
+  display: flex;
+}
+
+header ul li {
+  padding: 0 20px;
+}
+
+header ul li a {
+  color: #FFFFFF;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+header ul li a:hover {
+  color: #7BC3D1;
+}
+
+footer {
+  background-color: #333333;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+
+hr {
+   margin-bottom: 50px;
+   height: 5px;
+   width: 100px;
+   border: none;
+}
+
+.blue-line {
+   background-color: #7BC3D1;
+}
+
+.white-line {
+   background-color: #FFFFFF;
+}
+
+#top {
